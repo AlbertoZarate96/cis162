@@ -1,0 +1,14 @@
+body {background-color:navajowhite;
+font-family: Georgia, serif;}
+
+header {background-color:teal;}
+
+h1{color:white;}
+nav> ul {line-height:2em;
+    list-style-type:none;
+    padding-left:5px;}
+    
+section {background-color: azure;
+width:70%activefont-size: 1.2em;}
+
+footer {background-color: azure;}
